@@ -10,11 +10,6 @@ Esta Landing Page é construida com responsividade para diversas telas com o aux
   Link para visualização:
   <a href="https://brunodevbbf.github.io/Goblin/">Clique Aqui</a>
 </p>
-<h2>Links Social</h2>
-<p>
-<img alt="logo instagram" src=".github/instagram.png">
-<img alt="logo linkedin" src=".github/linkedin.png">
-</p>
 
 <br>
 
@@ -29,7 +24,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
-
-
-
-
